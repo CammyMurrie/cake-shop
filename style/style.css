@@ -1,0 +1,65 @@
+.cake-container {
+    width: 100%;
+    display: inline-block;
+}
+a.btn.btn-primary {
+    margin-top: 10px;
+}
+
+.search-bar {
+    margin-top: 10px;
+}
+
+.cake-box {
+    width: 250px;
+    height: 190px;
+    border: 1px solid gray;
+    display: inline-block;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.cake-box-img {
+    width: 100%;
+    max-height: 150px;
+}
+
+.cake-box-img img {
+    width: 100%;
+    max-height: 150px;
+}
+
+.cake-title {
+    font-size: 16px;
+    line-height: 40px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.cake-desc {
+    height: 20px;
+    max-height: 20px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.cake-info {
+    margin-top: 50px;
+}
+
+.cake-info input {
+    display: block;
+}
+.single-cake-img {
+    width: 50%;
+    float: right;
+}
+
+.single-cake-img img {
+    width: 100%;
+    max-height: 250px;
+}
+
+.edit-btn {
+    margin-top: 10px;
+}
